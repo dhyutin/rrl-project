@@ -9,18 +9,19 @@ This project aims to analyze hotel reviews, extract useful insights, and build a
 ```bash
 git clone https://github.com/your-username/your-project-repo.git
 cd your-project-repo
+```
 
 Install required libraries:
-It is recommended to use a virtual environment. You can create one using:
 
+It is recommended to use a virtual environment. You can create one using:
+```bash
 python3 -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-
+```
 Install dependencies:
-
+```bash
 pip install -r requirements.txt
-
-
+```
 Interacting with the chatbot:
 The chatbot is designed to answer user queries based on hotel reviews. After running the script, you can start interacting with the chatbot by entering queries related to hotel services, ratings, and locations.
 
