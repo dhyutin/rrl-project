@@ -21,7 +21,7 @@ The system can prioritize hotels based on user needs, such as cleanliness and pr
 ## **Installation**
 To set up the project locally, follow these steps:
 
-## **Prerequisites**
+## Prerequisites
 Python 3.11 or higher
 
 Git
