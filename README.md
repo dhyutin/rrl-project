@@ -23,8 +23,11 @@ To set up the project locally, follow these steps:
 
 ## **Prerequisites**
 Python 3.11 or higher
+
 Git
+
 OpenAI API key
+
 Booking.com API key (optional, for hotel search functionality)
 
 **Steps**
@@ -77,7 +80,7 @@ You can ask the system questions like:
 "Clara is extremely meticulous when it comes to cleanliness and expects everything she uses and everywhere she stays to be well-organized and tidy. Clara is in an emergency situation and needs to use the room for medical purposes. Suggest a hotel for Clara."
 
 
-## **Contributors: **
+## **Contributors:**
 Sree Dhyuti Nimmagadda
 Arjun Prasaath
 Ruchi Bommaraju
