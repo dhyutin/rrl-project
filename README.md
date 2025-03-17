@@ -1,6 +1,6 @@
 # **Hotel Suite Success - Multi-Agent System for Hotel Queries**
 ## **Overview**
-This project is a multi-agent system designed to handle hotel-related queries using a combination of web scraping, natural language processing, and API integrations. The system can answer user queries about hotels, such as finding hotels within a specific budget, checking amenities, and providing recommendations based on user preferences. The system uses tools like DuckDuckGo search, Booking.com API, and OpenAI's GPT-4 to process and respond to user queries.
+This project is a multi-agent system designed to handle hotel-related queries using a combination of web scraping, natural language processing, and API integrations. The system can answer user queries about hotels, such as finding hotels within a specific budget, checking amenities, and providing recommendations based on user preferences. The system uses tools like Booking.com API, and OpenAI's GPT-4 to process and respond to user queries.
 
 ## **Key Features:**
 **Hotel Information Retrieval:** The system can fetch detailed information about hotels, including amenities, pricing, and reviews.
