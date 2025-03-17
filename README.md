@@ -26,7 +26,7 @@ To set up the project locally, follow these steps:
 ### **Steps**
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/hotel-suite-success.git
+git clone https://github.com/dhyutin/rrl-project.git
 cd hotel-suite-success
 ```
 
